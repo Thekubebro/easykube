@@ -1,0 +1,1 @@
+sed -i s/blue/green/ templates/config-map.yaml

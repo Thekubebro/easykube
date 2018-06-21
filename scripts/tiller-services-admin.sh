@@ -1,0 +1,1 @@
+kubectl create clusterrolebinding --clusterrole=cluster-admin --serviceaccount=default:default concourse-admin

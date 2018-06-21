@@ -1,0 +1,1 @@
+../fly -t local check-resource -r dev-site-deploy/app-source

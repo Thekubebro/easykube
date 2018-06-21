@@ -1,0 +1,1 @@
+./fly -t local login -u concourse -p $PASSWORD -c http://$SERVICE_IP:8080

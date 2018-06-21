@@ -1,0 +1,1 @@
+sed -i s/stable/latest/ Dockerfile
